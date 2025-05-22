@@ -17,4 +17,12 @@ tags:
 
 > And there's no one like me.
 
-https://www.youtube.com/watch?v=3n0U9GG6QJU
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/3n0U9GG6QJU"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+

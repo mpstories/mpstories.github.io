@@ -17,4 +17,11 @@ tags:
 
 > I try to make the worst seem better.
 
-https://www.youtube.com/watch?v=en2D\_5TzXCA
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/en2D_5TzXCA"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>

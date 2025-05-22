@@ -16,10 +16,11 @@ tags:
 > Có bàn chân lặng lẽ giữa dòng đời như nước cuốn....
 
 * * *
-
-<iframe width="560" height="315" 
-  src="https://youtu.be/Tp4x0nU2Sf4?t=27" 
-  title="Những bàn chân lặng lẽ - Thu Phương" frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/Tp4x0nU2Sf4"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen>
 </iframe>
