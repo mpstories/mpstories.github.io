@@ -2,12 +2,13 @@ title: Phương Kể
 description: Let me show you the world in my eyes.
 url: "https://mpstories.github.io/"
 
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-archives
+  - jekyll-include-cache
 
 # Enable categories and tags
 collections:
