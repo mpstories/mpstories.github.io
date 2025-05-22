@@ -2,11 +2,8 @@
 layout: post
 title: "[Phương Kể] University of Limoges"
 date: 2020-12-27
-categories: 
-  - "stories"
-tags: 
-  - "phuongstories"
-  - "universityoflimoges"
+categories: [stories]
+tags: [phuongstories,universityoflimoges]
 coverImage: "20201217_184357-01.jpeg"
 ---
 

@@ -2,12 +2,8 @@
 layout: post
 title: "[Something Old] Tóc Xoăn Thì Khổ Thế Nào?"
 date: 2020-12-27
-categories: 
-  - "others"
-tags: 
-  - "phuongandothers"
-  - "somethingold"
-  - "tocxoan"
+categories: [others]
+tags: [phuongandothers,somethingold,tocxoan]
 ---
 
 **03:01PM - 12/08/2020**  

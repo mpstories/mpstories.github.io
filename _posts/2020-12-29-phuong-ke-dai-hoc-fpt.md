@@ -2,11 +2,8 @@
 layout: post
 title: "[Phương Kể] Đại học FPT"
 date: 2020-12-27
-categories: 
-  - "stories"
-tags: 
-  - "fptuniversity"
-  - "phuongstories"
+categories: [stories]
+tags: [fptuniversity,phuongstories]
 coverImage: "25542293_1331736350265755_2316067593770371172_o.jpg"
 ---
 

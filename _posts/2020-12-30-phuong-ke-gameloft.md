@@ -2,11 +2,8 @@
 layout: post
 title: "[Phương Kể] Gameloft"
 date: 2020-12-27
-categories: 
-  - "stories"
-tags: 
-  - "gameloft"
-  - "phuongstories"
+categories: [stories]
+tags: [gameloft;phuongstories]
 coverImage: "106256037_2765674580205251_7481760470326575811_o.jpg"
 ---
 

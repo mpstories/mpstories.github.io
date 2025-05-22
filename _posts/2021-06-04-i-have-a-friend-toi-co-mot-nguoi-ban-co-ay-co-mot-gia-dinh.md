@@ -2,8 +2,8 @@
 layout: post
 title: "[I have a friend] Tôi có một người bạn, cô ấy có một gia đình..."
 date: 2021-06-04
-categories: 
-  - "i-have-a-friend"
+categories: [i-have-a-friend]
+tags: [phuongstories]
 ---
 
 **_Tôi có một người bạn, cô ấy có một gia đình tan vỡ._**

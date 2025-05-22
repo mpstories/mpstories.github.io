@@ -2,10 +2,8 @@
 layout: post
 title: "[Moments] Những ngày buồn thênh"
 date: 2020-12-27
-categories: 
-  - "moments"
-tags: 
-  - "phuongmoments"
+categories: [moments]
+tags: [phuongmoments]
 ---
 
 **07:33PM - 23/06/2020**  

@@ -1,16 +1,41 @@
 title: Phương Kể
 description: Let me show you the world in my eyes.
+url: "https://mpstories.github.io/"
 
-theme: minima # GitHub Pages supports this by default
+theme: minimal-mistakes-jekyll
 
-permalink: /:year/:month/:day/:title/
-markdown: kramdown
-
-# Build settings
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-archives
 
-# Exclude these from the build
-exclude:
-  - README.md
+# Enable categories and tags
+collections:
+  posts:
+    output: true
+    permalink: /:categories/:year/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+
+# Archives for categories/tags
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: archive
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
+
+  
+  

@@ -2,12 +2,8 @@
 layout: post
 title: "[Playlist] I'm Not Her - Clara Mae"
 date: 2020-12-27
-categories: 
-  - "playlist"
-tags: 
-  - "claramae"
-  - "imnother"
-  - "phuongplaylist"
+categories: [playlist]
+tags: [claramae,imnother,phuongplaylist]
 ---
 
 **12:38PM - 17/06/2020**  

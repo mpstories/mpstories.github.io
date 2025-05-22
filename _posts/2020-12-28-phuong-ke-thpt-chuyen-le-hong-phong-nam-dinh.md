@@ -2,11 +2,8 @@
 layout: post
 title: "[Phương Kể] THPT chuyên Lê Hồng Phong Nam Định"
 date: 2020-12-27
-categories: 
-  - "stories"
-tags: 
-  - "phuongstories"
-  - "thptchuyenlehongphongnamdinh"
+categories: [stories]
+tags: [phuongstories,thptchuyenlehongphongnamdinh]
 coverImage: "dscf1040.jpg"
 ---
 

@@ -2,10 +2,8 @@
 layout: post
 title: "[Playlist] Những bàn chân lặng lẽ - Thu Phương"
 date: 2021-02-21
-categories: 
-  - "playlist"
-tags: 
-  - "phuongplaylist"
+categories: [playlist]
+tags: [phuongplaylist]
 ---
 
 **08:04PM - 21/02/2021**  

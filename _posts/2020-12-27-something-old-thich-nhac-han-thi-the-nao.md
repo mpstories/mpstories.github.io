@@ -2,13 +2,8 @@
 layout: post
 title: "[Something Old] Thích Nhạc Hàn Thì Thế Nào?"
 date: 2020-12-27
-categories: 
-  - "others"
-tags: 
-  - "kpop"
-  - "nhachan"
-  - "phuongandothers"
-  - "somethingold"
+categories: [others]
+tags: [kpop,nhachan,phuongandothers,somethingold]
 ---
 
 **04:28PM - 31/05/2020**  

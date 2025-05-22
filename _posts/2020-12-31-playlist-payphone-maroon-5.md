@@ -2,12 +2,8 @@
 layout: post
 title: "[Playlist] Payphone - Maroon 5"
 date: 2020-12-27
-categories: 
-  - "playlist"
-tags: 
-  - "maroon5"
-  - "payphone"
-  - "phuongplaylist"
+categories: [playlist]
+tags: [maroon5,payphone,phuongplaylist]
 ---
 
 **09:29PM - 29/06/2020**  

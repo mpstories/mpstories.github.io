@@ -2,12 +2,8 @@
 layout: post
 title: "[Playlist] breathin (Ariana Grande) - Cover by NCT DOYOUNG"
 date: 2020-12-27
-categories: 
-  - "playlist"
-tags: 
-  - "breathin"
-  - "nctdoyoungcover"
-  - "phuongplaylist"
+categories: [playlist]
+tags: [breathin,nctdoyoungcover,phuongplaylist]
 ---
 
 **03:54 PM - 23/05/2020**  

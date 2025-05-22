@@ -2,12 +2,8 @@
 layout: post
 title: "[Playlist] Million Reasons - Lady Gaga"
 date: 2020-12-27
-categories: 
-  - "playlist"
-tags: 
-  - "ladygaga"
-  - "millionreasons"
-  - "phuongplaylist"
+categories: [playlist]
+tags: [ladygaga,millionreasons,phuongplaylist]
 ---
 
 **09:09PM - 24/05/2020**  
