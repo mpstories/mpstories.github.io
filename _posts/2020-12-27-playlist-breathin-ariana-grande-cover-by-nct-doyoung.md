@@ -22,4 +22,12 @@ tags:
 
 His voice is so good!
 
-https://www.youtube.com/watch?v=5TpD7NlOS9c
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/5TpD7NlOS9c"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
