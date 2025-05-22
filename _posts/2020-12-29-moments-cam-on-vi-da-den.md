@@ -13,7 +13,7 @@ tags:
 
 _**And the memories bring back, memories bring back you.**_
 
-![](./images/img_20180812_135732_855.jpg)
+![](/assets/images/img_20180812_135732_855.jpg)
 
 > _Cảm ơn Anh vì ngày hôm đó đã xuất hiện bên cạnh em._   
 > _Cảm ơn Tỉ vì đã chia sẻ những câu chuyện nho nhỏ với muội._  

@@ -14,7 +14,7 @@ tags:
 **04:28PM - 31/05/2020**  
 **\[Something Old\] Thích Nhạc Hàn Thì Thế Nào?**
 
-![](./images/0b2c9-6c316bf0-8974-11e8-a612-050901070303-compressed.jpg)
+![](/assets/images/0b2c9-6c316bf0-8974-11e8-a612-050901070303-compressed.jpg)
 
 **14/12/2014**
 
@@ -46,4 +46,4 @@ Với cá nhân tớ, 6 năm rồi nhưng tớ vẫn giữ tinh thần cũ: thí
 
 _Bonus chiếc ảnh của thần tượng tớ đang thích hiện tại._
 
-![](./images/5b523-maxresdefault.jpg)
+![](/assets/images/5b523-maxresdefault.jpg)

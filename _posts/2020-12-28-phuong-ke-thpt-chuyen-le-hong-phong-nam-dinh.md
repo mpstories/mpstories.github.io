@@ -16,7 +16,7 @@ coverImage: "dscf1040.jpg"
 _"Khi ta ở chỉ là nơi đất ở_  
 _Khi ta đi đất đã hóa tâm hồn."_
 
-![](./images/d7c23-1-196.jpg)
+![](/assets/images/d7c23-1-196.jpg)
 
 Học lực cấp 2 của tớ không tốt và tớ tự nhận thức được điều đó. Nhưng cuối năm lớp 9 tớ vẫn gửi hồ sơ thi vào hai trường chuyên, một là THPT chuyên của Đại học Quốc Gia Hà Nội (ĐHQGHN) và một là THPT chuyên Lê Hồng Phong Nam Định (LHPNĐ). Đương nhiên, thi cử chưa bao giờ là dễ dàng. Khi lên Hà Nội thi vào khối chuyên THPT của ĐHQGHN, tớ cũng không ôm nhiều hi vọng lắm vì có quá nhiều các bạn giỏi giang hơn cùng thi với tớ. Đợt đó thi vào khối chuyên Tin của ĐHQGHN thì không phải thi môn Tin mà chỉ Toán Văn thôi thì phải (lâu quá nên tớ cũng không nhớ nữa). Đương nhiên là đợt thi cấp 3 của trường ĐHQGHN là sớm nhất trong tất cả các trường cấp 3. Tham gia cuộc thi cấp cao nên tớ gặp nhiều bạn trùng tên kinh khủng. Lần đầu tiên thấy lắm người tên Mai Phương như vậy luôn. À, kết quả đương nhiên là tớ trượt, cũng không nhớ đợt đó được bao nhiêu điểm nữa. Nhưng mà tớ nhớ đề thì văn là về một người Tràng An, dựa vào câu "Chẳng thơm cũng thể hoa nhài / Dẫu không thanh lịch cũng người Tràng An". Nhớ cái đề thi vì lúc ấy chẳng biết người Tràng An là người ở đâu, lúc đó còn tưởng là người Ninh Bình vì tớ nhớ mọi người kêu là ở Ninh Bình có khu du lịch Tràng An - Bái Đính. Đi thi mà chả biết gì như tớ thì không trượt cũng lạ.
 
@@ -28,4 +28,4 @@ Nói là lớp chuyên Tin nhưng mà lớp tớ chỉ có tầm 1/4 là tiếp 
 
 Nhưng may mắn không thể nuôi sống tớ mãi được. Sau đó là một chuỗi thất bại của tớ. Từ việc trượt vòng thi chọn đội tuyển thi Quốc Gia năm lớp 11 rồi năm lớp 12. Những năm đó chỉ cần có giải ở cuộc thi chuyên Quốc Gia thì sẽ được tuyển thẳng vào đại học nên tớ đã nuôi rất nhiều hi vọng. Đương nhiên là cuối cùng đành ôm nỗi buồn và sự thất vọng về bản thân đi về thôi. Theo đuổi chuyên Tin đã khó, từ bỏ để quay trở lại ôn thi đại học còn khó hơn. Như những dòng đầu tiên tớ viết thì tớ học không hề giỏi. Nên câu chuyện khi lên đại học chắc có lẽ còn buồn cười hơn cơ. :D Tớ sẽ kể tiếp sau nhá. 
 
-![](./images/6dfbc-dscf1040.jpg)
+![](/assets/images/6dfbc-dscf1040.jpg)

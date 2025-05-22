@@ -13,7 +13,7 @@ tags:
 **03:01PM - 12/08/2020**  
 **\[Something Old\] Tóc Xoăn Thì Khổ Thế Nào?**
 
-![](./images/3d5a4-e4d450e9b4e58a6fe9b545299383482c.jpg)
+![](/assets/images/3d5a4-e4d450e9b4e58a6fe9b545299383482c.jpg)
 
 **09/12/2014**
 

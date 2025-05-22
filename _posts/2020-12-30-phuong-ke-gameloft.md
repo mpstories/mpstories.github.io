@@ -21,7 +21,7 @@ Kết lại thì sau 3 ngày làm việc thì thấy rất vui vì sự lựa ch
 
 P/s: Công ty lại còn không kiểm soát giờ đến giờ đi luôn. Xong việc là được. Quá ư là ưng cái bụng. ❤ ❤ ❤
 
-![](./images/5c1be-106256037_2765674580205251_7481760470326575811_o.jpg)
+![](/assets/images/5c1be-106256037_2765674580205251_7481760470326575811_o.jpg)
 
 * * *
 
@@ -36,7 +36,7 @@ Tớ muốn viết rất nhiều về Gameloft và tớ cũng đã thực sự v
 
 Cảm ơn mọi người đã nuông chiều em từ ngày vào team tới tận ngày em rời đi. Nếu nói những ngày đi học em đã học được cách mạnh mẽ và cứng rắn để tự mình làm mọi thứ thì chính mọi người đã giúp em học được cách ỷ lại, cho em biết cảm giác được nuông chiều và thương yêu. Có thể đối với mọi người em sẽ chỉ là một người ngang qua nhưng đối với em thì mọi người đã là một gia đình thứ hai, một gia đình trọn vẹn. 
 
-![](./images/909e7-81869265_2383516188421094_6060823862591881216_o.jpg)
+![](/assets/images/909e7-81869265_2383516188421094_6060823862591881216_o.jpg)
 
 * * *
 

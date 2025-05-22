@@ -15,7 +15,7 @@ coverImage: "nhatruong.jpg"
 
 <figure>
 
-![](./images/816ce-nhatruong.jpg)
+![](/assets/images/816ce-nhatruong.jpg)
 
 <figcaption>
 
