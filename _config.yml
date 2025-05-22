@@ -1,3 +1,16 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Phương Kể
+description: Let me show you the world in my eyes.
+
+theme: minima # GitHub Pages supports this by default
+
+permalink: /:year/:month/:day/:title/
+markdown: kramdown
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude these from the build
+exclude:
+  - README.md
