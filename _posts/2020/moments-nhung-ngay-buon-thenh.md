@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "[Moments] Những ngày buồn thênh"
 date: 2020-12-27
 categories: 

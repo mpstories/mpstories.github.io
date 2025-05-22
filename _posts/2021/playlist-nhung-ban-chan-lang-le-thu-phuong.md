@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "[Playlist] Những bàn chân lặng lẽ - Thu Phương"
 date: 2021-02-21
 categories: 

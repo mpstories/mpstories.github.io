@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "[Phương Kể] Gameloft"
 date: 2020-12-27
 categories: 

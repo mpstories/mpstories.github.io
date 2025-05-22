@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "[Phương Kể] Đại học FPT"
 date: 2020-12-27
 categories: 

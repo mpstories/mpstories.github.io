@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "[Playlist] Payphone - Maroon 5"
 date: 2020-12-27
 categories: 

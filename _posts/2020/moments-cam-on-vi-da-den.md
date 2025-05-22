@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "[Moments] Cảm ơn vì đã đến"
 date: 2020-12-27
 categories: 

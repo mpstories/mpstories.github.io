@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "[Phương Kể] Trường Năng Khiếu Nghĩa Hưng"
 date: 2020-12-27
 categories: 

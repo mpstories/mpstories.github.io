@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "[Playlist] Million Reasons - Lady Gaga"
 date: 2020-12-27
 categories: 

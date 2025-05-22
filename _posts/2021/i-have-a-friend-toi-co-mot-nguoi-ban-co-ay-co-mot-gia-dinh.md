@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "[I have a friend] Tôi có một người bạn, cô ấy có một gia đình..."
 date: 2021-06-04
 categories: 

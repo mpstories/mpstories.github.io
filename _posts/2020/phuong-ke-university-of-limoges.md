@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "[Phương Kể] University of Limoges"
 date: 2020-12-27
 categories: 
